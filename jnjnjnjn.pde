@@ -15,10 +15,10 @@ void setup() {
   int appHeight =displayHeight;
   //
   //Population
-  diyX = appWidth*(1/4)
-  diyY = appHeight*(1/4)
-  divWidth = appWidth*(1/2)
-  divHeight = appHeight*(1/2)
+  diyX = appWidth*(1/4) ;
+  diyY = appHeight*(1/4) ;
+  divWidth = appWidth*(1/2) ;
+  divHeight = appHeight*(1/2) ;
   int
   //
   //DIVs: musicButtonDIV
